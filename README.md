@@ -1,0 +1,2 @@
+# JavaScriptTraning
+ JavaScript勉強
