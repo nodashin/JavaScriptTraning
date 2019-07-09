@@ -1,2 +1,0 @@
-# JavaScriptTraning
- JavaScript勉強
